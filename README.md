@@ -1,5 +1,6 @@
 In this lab, we are focusing on core machine learning concepts and implementing them through hands-on exercises. The topics covered are:
 
+
 1. Introduction to Machine Learning
 Understanding the basics of Machine Learning, its types (supervised, unsupervised, and reinforcement learning), and real-world applications.
 Learning the typical ML workflow, including data collection, preprocessing, model training, and evaluation.
